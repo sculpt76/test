@@ -67,11 +67,11 @@
   - from : 생산자, 창고, 운송자
   - to : 소비자
   
-## Action - 0.2 version
 
-![img_5045](https://user-images.githubusercontent.com/897510/40751422-a4d3e3f8-649d-11e8-8546-70d297aa9b2e.jpg)
 
-> Action 정리 해주세요
+
+
+
 
 ## Support
 - 이 프로젝트는 이더리운연구회(http://www.etherstudy.net) 의 도움을 받고 있습니다
