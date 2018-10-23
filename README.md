@@ -39,29 +39,29 @@
 
 ## Action - 0.1 version
 
-![musictie-whiteboard](https://user-images.githubusercontent.com/897510/40409709-adc927e0-5ea6-11e8-9877-7f0bf09dd2b2.jpeg)
+![new mockup 1](https://user-images.githubusercontent.com/44389221/47355508-7e11d280-d6fc-11e8-8147-6dad040ae754.png)
 
-1. OOO 음악 요청
-  - from : 리스너
-  - to : Music Tie 서버
-2. OOO 음악 결제를 위한 Smart Contract 생성
-  - from : Music Tie 서버
+1. OOO 소비자 주문
+  - from : 소비자
+  - to : 협동조합 서버
+2. 상품 결제를 위한 Smart Contract 생성
+  - from : 협동조합 서버
   - to : Blockchain
-3. OOO 음악 결제
-  - from : 리스너
+3. 상품 결제
+  - from : 소비자
   - to : Blockchain
-4. 설정된 저작권에 따른 분배
+4. 설정된 분류에 따른 분배
   - from : Smart Contract
-  - to : 저작권자1
-  - to : 저작권자2
-  - to : IPFS, 파일 서버 이용료
+  - to : 생산자
+  - to : 창고
+  - to : 운송자
   - to : Blockchain 에 결제 완료 Flag 설정
 5. 결제 완료 확인
-  - from : Music Tie 서버
+  - from : 협동조합서버
   - to : Blockchain
-6. 음악 제공
-  - from : Music Tie 서버
-  - to : 리스너
+6. 소비자 제공
+  - from : 생산자, 창고, 운송자
+  - to : 소비자
   
 ## Action - 0.2 version
 
